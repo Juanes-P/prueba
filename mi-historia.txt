@@ -11,3 +11,5 @@ mucho de algo no es bueno
 
 creo que estoy progresando con git 
 ya descubri al fin como utilizar el rm reset
+
+es el momento de hacer un merge con dos ramas
