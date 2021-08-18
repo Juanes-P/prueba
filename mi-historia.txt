@@ -7,3 +7,6 @@ vivo en ipiales-colombia
 mi momento ha llegado xd
 
 mucho de algo no es bueno 
+
+creo que estoy progresando con git 
+ya descubri al fin como utilizar el rm reset
