@@ -1,11 +1,15 @@
-mi introduccion en rama master
 mi nombre es esteban prado
 tengo 17 años 
 el proximo año cumplire 18
 naci en ipiales
 vivo en ipiales-colombia 
 
+
+----------------------- F U T U R O -----------------------------
 mi momento ha llegado xd
+bueno aqui es donde va a ir mi futuro en la rama futuro
+el proximo año me voy a estudiar a manizales en la universidad de manizales xd 
+nose como voy a sobrevivir pero es lo que hay
 
 
 
@@ -17,5 +21,3 @@ y tengo que ser sincero no me gusto mi estapa escolar no se porque xd
 ---------------------------------------------------------------
 
 
-creo que estoy progresando con git 
-ya descubri al fin como utilizar el rm reset
