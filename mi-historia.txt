@@ -14,6 +14,8 @@ mucho de algo no es bueno
 aqui es donde va mi pasado
 bueno pues me gradue de la institucion educativa sucre
 y tengo que ser sincero no me gusto mi estapa escolar no se porque xd
+---------------------------------------------------------------
+
 
 creo que estoy progresando con git 
 ya descubri al fin como utilizar el rm reset
